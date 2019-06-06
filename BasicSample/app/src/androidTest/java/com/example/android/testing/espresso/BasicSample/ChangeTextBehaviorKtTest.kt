@@ -73,6 +73,6 @@ class ChangeTextBehaviorKtTest {
     }
 
     companion object {
-        val STRING_TO_BE_TYPED = "Espresso"
+        val STRING_TO_BE_TYPED = "Espresso framework"
     }
 }

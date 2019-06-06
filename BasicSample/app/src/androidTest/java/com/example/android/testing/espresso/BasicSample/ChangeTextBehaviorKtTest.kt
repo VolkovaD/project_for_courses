@@ -73,7 +73,7 @@ class ChangeTextBehaviorKtTest {
     }
 
     companion object {
-        val TEXT_FOR_SAME_ACTIVITY = "Same Activity"
-        val TEXT_FOR_NEW_ACTIVITY = "New Activity"
+        val TEXT_FOR_SAME_ACTIVITY = "It is the same Activity"
+        val TEXT_FOR_NEW_ACTIVITY = "It is a new Activity"
     }
 }
